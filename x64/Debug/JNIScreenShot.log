@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  DXGICapture.cpp
+  com_tdkc_udop_screencapture_JNIScreenShot_captureScreen.cpp
+  JNIScreenShot.cpp
+C:\Users\Reese\Desktop\JNIScreenShot\JNIScreenShot\JNIScreenShot.cpp(43,11): warning C4101: 'isCopy': unreferenced local variable
+  Generating Code...
+     Creating library C:\Users\Reese\Desktop\JNIScreenShot\JNIScreenShot\x64\Debug\JNIScreenShot.lib and object C:\Users\Reese\Desktop\JNIScreenShot\JNIScreenShot\x64\Debug\JNIScreenShot.exp
+  JNIScreenShot.vcxproj -> C:\Users\Reese\Desktop\JNIScreenShot\JNIScreenShot\x64\Debug\JNIScreenShot.dll

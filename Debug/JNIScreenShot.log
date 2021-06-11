@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  DXGICapture.cpp
+  com_tdkc_udop_screencapture_JNIScreenShot_captureScreen.cpp
+C:\Users\Reese\Desktop\JNIScreenShot\JNIScreenShot\com_tdkc_udop_screencapture_JNIScreenShot.h(2,10): fatal error C1083: Cannot open include file: 'jni.h': No such file or directory
+  JNIScreenShot.cpp
+C:\Users\Reese\Desktop\JNIScreenShot\JNIScreenShot\com_tdkc_udop_screencapture_JNIScreenShot.h(2,10): fatal error C1083: Cannot open include file: 'jni.h': No such file or directory
+  Generating Code...
